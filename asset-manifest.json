@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/S.O.Voloshin.K21.React/static/css/main.61757a8b.css",
+    "main.js": "/S.O.Voloshin.K21.React/static/js/main.2f3207e1.js",
+    "static/media/bedroom.png": "/S.O.Voloshin.K21.React/static/media/bedroom.7ab51e3f3eeda821b57a.png",
+    "static/media/lilTable.png": "/S.O.Voloshin.K21.React/static/media/lilTable.41a0a851e4a689288706.png",
+    "static/media/shelves.png": "/S.O.Voloshin.K21.React/static/media/shelves.aa381d5f054810824944.png",
+    "static/media/shelf.bed.png": "/S.O.Voloshin.K21.React/static/media/shelf.bed.2c340744c2c85a8953bf.png",
+    "static/media/star.svg": "/S.O.Voloshin.K21.React/static/media/star.779424d768962a6a06f83f2976d3fe14.svg",
+    "static/media/magazine(exp).png": "/S.O.Voloshin.K21.React/static/media/magazine(exp).c77fb3769bafe25c32b5.png",
+    "static/media/desk.png": "/S.O.Voloshin.K21.React/static/media/desk.ea6f1fde6a103217f82e.png",
+    "static/media/light.shelf.bed.png": "/S.O.Voloshin.K21.React/static/media/light.shelf.bed.1116364e09143ed73b53.png",
+    "static/media/Towel.png": "/S.O.Voloshin.K21.React/static/media/Towel.90c7f21f4440da964c58.png",
+    "static/media/entranceHall.png": "/S.O.Voloshin.K21.React/static/media/entranceHall.a48e9f2e4dc7a28437a9.png",
+    "static/media/hall.png": "/S.O.Voloshin.K21.React/static/media/hall.1d917aee6b74c8157a2c.png",
+    "static/media/table.png": "/S.O.Voloshin.K21.React/static/media/table.ea1963af0cd44d889a2f.png",
+    "static/media/shelf.png": "/S.O.Voloshin.K21.React/static/media/shelf.8eb6b681c72a73b52c7d.png",
+    "static/media/magazine.png": "/S.O.Voloshin.K21.React/static/media/magazine.de98c347f4deb80ecab9.png",
+    "static/media/main_name.svg": "/S.O.Voloshin.K21.React/static/media/main_name.c36ded7b6da6f0f0f5d918f4f1bec55a.svg",
+    "static/media/customers.png": "/S.O.Voloshin.K21.React/static/media/customers.28d51ad026d72d5e6e6d.png",
+    "static/media/spain.svg": "/S.O.Voloshin.K21.React/static/media/spain.b88996678c02e3b4f3d20abe4e1c3803.svg",
+    "static/media/light.svg": "/S.O.Voloshin.K21.React/static/media/light.38db9710c19546b9bf3c912a5072ac47.svg",
+    "static/media/van.svg": "/S.O.Voloshin.K21.React/static/media/van.1d2e21a7d6f71ae201bbcffe1d214282.svg",
+    "static/media/wood(2).svg": "/S.O.Voloshin.K21.React/static/media/wood(2).d7e18dc06218a66d7c3de7b47be643a8.svg",
+    "static/media/recycle.svg": "/S.O.Voloshin.K21.React/static/media/recycle.951402a52b55c837c99dc9a17267b2a8.svg",
+    "static/media/wood.svg": "/S.O.Voloshin.K21.React/static/media/wood.edfb96fb3f2d96eb0b801cfb8ed5b081.svg",
+    "static/media/hands.svg": "/S.O.Voloshin.K21.React/static/media/hands.260bbf636f99ef7ec5990e4a2d3d2d09.svg",
+    "index.html": "/S.O.Voloshin.K21.React/index.html",
+    "main.61757a8b.css.map": "/S.O.Voloshin.K21.React/static/css/main.61757a8b.css.map",
+    "main.2f3207e1.js.map": "/S.O.Voloshin.K21.React/static/js/main.2f3207e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61757a8b.css",
+    "static/js/main.2f3207e1.js"
+  ]
+}
